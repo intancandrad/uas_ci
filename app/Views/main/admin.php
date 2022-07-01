@@ -8,7 +8,7 @@
         <div class="col">
             <div class="info">
                 <center>
-                    <h2><i class="fas fa-th-list"></i>&nbsp;&nbsp;Kelola Data Semnas Roboco 2021</h2>
+                    <h2><i class="fas fa-th-list"></i>&nbsp;&nbsp;Kelola Data Seminar Nasional Teknik Elektro</h2>
                 </center>
                 <hr style="border: 1px grey solid;">
             </div><br>

@@ -8,7 +8,7 @@
 		<div class="col">
 			<div class="info">
 				<center>
-					<h2><i class="fas fa-user-edit"></i>&nbsp;&nbsp;Pendaftaran Semnas Roboco 2021</h2>
+					<h2><i class="fas fa-user-edit"></i>&nbsp;&nbsp;Pendaftaran Seminar Nasional Teknik Elektro</h2>
 				</center>
 				<hr style="border: 1px grey solid;">
 			</div><br>
